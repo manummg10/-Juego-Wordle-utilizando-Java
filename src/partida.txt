@@ -1,0 +1,52 @@
+
+
+==============================
+Fecha de la partida: 2025-02-12 10:39:09
+Historial de la partida:
+GATOS
+PERRO
+Resultado: ¡Ganaste!
+Palabra secreta: VERDE
+
+==============================
+Fecha de la partida: 2025-02-12 10:44:39
+Historial de la partida:
+GATOS
+PERRO
+VERDE
+NUBES
+Resultado: ¡Ganaste!
+Palabra secreta: MUNDO
+
+==============================
+Fecha de la partida: 2025-02-12 10:55:42
+Historial de la partida:
+GATOS
+PERRO
+VERDE
+NUBES
+Resultado: ¡Ganaste!
+Palabra secreta: MUNDO
+
+==============================
+Fecha de la partida: 2025-02-12 11:03:29
+Historial de la partida:
+GATOS
+Resultado: ¡Ganaste!
+Palabra secreta: PERRO
+
+==============================
+Fecha de la partida: 2025-02-12 11:04:37
+Historial de la partida:
+GATOS
+Resultado: ¡Ganaste!
+Palabra secreta: PERRO
+
+==============================
+Fecha de la partida: 2025-02-12 11:04:56
+Historial de la partida:
+PERRO
+VERDE
+NUBES
+Resultado: ¡Ganaste!
+Palabra secreta: MUNDO
